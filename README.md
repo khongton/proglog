@@ -1,0 +1,2 @@
+# Proglog, from Distributed Services with Go
+The code in this repo represents the work I'm doing as I follow along my reading of [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/) by Travis Jeffrey.
