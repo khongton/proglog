@@ -1,0 +1,16 @@
+{
+    "CN": "My awesome CA",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "US",
+            "L": "Palo Alto",
+            "ST": "CA",
+            "O": "hongtongsak enterprises",
+            "OU": "hongtongsak e9g"
+        }
+    ]
+}
